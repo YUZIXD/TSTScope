@@ -8,5 +8,6 @@
 
 To run the demo,
 
-🌟 The processed dataset is available at this ![site](https://zenodo.org/records/18059376).
-🌟 The demo notebook is available at this ![site](./tutorials/20260106_10XDonor2_tstscope_run_demo.ipynb).
+🌟 The processed dataset is available at this [site](https://zenodo.org/records/18059376).
+
+🌟 The demo notebook is available at this [site](./tutorials/20260106_10XDonor2_tstscope_run_demo.ipynb).
